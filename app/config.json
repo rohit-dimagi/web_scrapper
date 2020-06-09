@@ -1,0 +1,7 @@
+{
+    "application_port": 5500,
+    "result_limit": 20,
+    "zipcode_url": "http://ziptasticapi.com",
+    "zipcode":[60603,60607],
+    "web_scrape_url": "https://www.abodo.com"
+}
